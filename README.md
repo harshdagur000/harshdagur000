@@ -57,7 +57,7 @@ Currently, I am a 3rd year Btech cse student at Bennett university.
 
 ### :fire: My Stats :
 
-[![Harsh Dagur's Github Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Krishrajput1107&show_icons=true&theme=tokyonight&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+[![Harsh's Github Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Krishrajput1107&show_icons=true&theme=tokyonight&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krishrajput1107&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=Krishrajput1107&theme=tokyonight)](https://git.io/streak-stats)
 
